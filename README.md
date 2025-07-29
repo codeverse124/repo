@@ -1,7 +1,8 @@
 
-<p align="center">
+<div style="text-align: center; margin: 1rem 0;">
   <img src="/code1.png" alt="CodeVerse" width="160" />
-</p>
+</div>
+
 
 > 🚀 **Practice 300+ real-world React interview questions** in-browser — no AI fluff, no distractions.  
 > 💼 Built with precision by developers who've been through FAANG, Big Tech, and startup trenches.  
