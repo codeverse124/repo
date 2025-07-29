@@ -3,7 +3,7 @@
   <img src="/code1.png" alt="CodeVerse" width="160" />
 </p>
 
-> 🚀 **Practice 300+ real-world React & JavaScript interview questions** in-browser — no AI fluff, no distractions.  
+> 🚀 **Practice 300+ real-world React interview questions** in-browser — no AI fluff, no distractions.  
 > 💼 Built with precision by developers who've been through FAANG, Big Tech, and startup trenches.  
 > 🎯 CodeVerse gives you **a focused, clean, and fast interface** to master your fundamentals and ace interviews with confidence.
 
