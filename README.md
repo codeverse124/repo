@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/code1.png" alt="CodeVerse Logo" width="160" />
+  <img src="/code1.png" alt="CodeVerse" width="160" />
 </p>
 
 > 🚀 **Practice 300+ real-world React & JavaScript interview questions** in-browser — no AI fluff, no distractions.  
